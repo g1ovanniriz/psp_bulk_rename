@@ -2,7 +2,7 @@
 Rename multiple psp games to EBOOT.PBP, every file in its folder, automatically
 
 To use it, run the script and copy your game PBP files in the created PBP_FILES folder.
-This will create a folder with ypur gaame name and the EBOOT.PBP in that folder
+This will create a folder with your gaame name and the EBOOT.PBP in that folder
 
 EXAMPLE:
 Run the script
